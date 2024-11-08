@@ -1,0 +1,26 @@
+body {
+    background-color: #abebc6; /* Fondo claro */
+    font-family: 'calibri', sans-serif;
+}
+
+header {
+    background: #f5cba7; /* Gris oscuro */
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+.btn-light {
+    background-color: #d5f5e3; /* Verde Neón */
+    border: none;
+    font-weight: bold;
+}
+
+.btn-light:hover {
+    background-color: #008f6a;
+}
+
